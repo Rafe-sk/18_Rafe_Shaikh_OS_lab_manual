@@ -34,5 +34,7 @@ Write a shell script program that prints "Shell scripting is fun " on the screen
   </li>
   <li>
   Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
+    <img width="1196" alt="Screenshot 2024-05-06 at 4 44 55 PM" src="https://github.com/Rafe-sk/Operating_System/assets/142775371/9cf87a3f-d2eb-41ac-85cd-c406f0e88e96">
+    <img width="1196" alt="Screenshot 2024-05-06 at 4 44 55 PM" src="https://github.com/Rafe-sk/Operating_System/assets/142775371/fbcf7b64-a313-4135-b0de-9de1ea246f49">
   </li>
 </ol>
